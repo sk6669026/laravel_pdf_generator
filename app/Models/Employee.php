@@ -7,6 +7,8 @@ use Illuminate\Database\Eloquent\Model;
 
 class Employee extends Model {
 
+    public $table = 'employees';
+
     public $fillable = ['name', 'email', 'phone_number', 'dob'];
 
 }
