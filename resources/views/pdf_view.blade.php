@@ -1,4 +1,4 @@
-<h1>Customer List</h1>
+<h1>Employees List</h1>
 <table class="table table-bordered mb-5">
             <thead>
                 <tr class="table-danger">
